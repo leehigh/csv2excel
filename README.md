@@ -10,9 +10,9 @@ a tool: import csv(or txt) files to excel
 
 ### version 0.0
 
-done:
+- done:
   - only basic function
   - number of cols: 5, cannot change
-to do:
+- to do:
   - flexible number of cols
   - .py function
